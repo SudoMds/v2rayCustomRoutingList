@@ -38,7 +38,8 @@
       "geoip:cn"
     ],
     "domain": [
-      "geosite:cn"
+      "geosite:cn",
+      "geosite:ir"
     ]
   },
   {
